@@ -1,0 +1,5 @@
+django
+djangorestframework
+djoser
+psycopg2
+djangorestframework-simplejwt
